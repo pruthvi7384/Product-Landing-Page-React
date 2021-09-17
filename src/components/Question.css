@@ -1,0 +1,25 @@
+.qution-container{
+    width: 100%;
+    padding:50px;
+    text-align: center;
+}
+.qution-container h1{
+    color: #323751;
+}
+.qution-container p{
+    margin-top:20px;
+    color:#929292;
+}
+ul{
+    margin-top:20px;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+}
+ul li{
+    margin:0px 20px;
+}
+ul li i{
+    font-size:25px;
+    color: #3082B5;
+}
